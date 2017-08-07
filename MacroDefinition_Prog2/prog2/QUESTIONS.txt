@@ -1,0 +1,3 @@
+What should be in the macro definition vector?
+	Are we grabbing every line from macro to endm?
+Should we clear out the comments or simply ignore them?
